@@ -1,0 +1,15 @@
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\bin\Debug\LocalCoder.exe
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\bin\Debug\LocalCoder.pdb
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\obj\x86\Debug\LocalCoder.Form1.resources
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\obj\x86\Debug\LocalCoder.Properties.Resources.resources
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\obj\x86\Debug\LocalCoder.csproj.GenerateResource.Cache
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\obj\x86\Debug\LocalCoder.exe
+C:\Users\Lan\AppData\Local\Temporary Projects\LocalCoder\obj\x86\Debug\LocalCoder.pdb
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.exe
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.pdb
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\bin\Debug\LocalCoder.exe
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\bin\Debug\LocalCoder.pdb
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.Properties.Resources.resources
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.csproj.GenerateResource.Cache
+C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.LCForm.resources
+C:\Users\Lan\Documents\Visual Studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.csprojResolveAssemblyReference.cache

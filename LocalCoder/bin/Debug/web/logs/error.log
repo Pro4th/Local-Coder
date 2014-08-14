@@ -1,0 +1,932 @@
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+rmine the server's fully qualified domain name, using 10.0.0.109 for ServerName
+[Thu Jan 31 20:30:15 2008] [notice] Apache/2.2.8 (Win32) configured -- resuming normal operations
+[Thu Jan 31 20:30:15 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jan 31 20:30:15 2008] [notice] Parent: Created child process 756
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.0.0.109 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.0.0.109 for ServerName
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Child process is running
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Acquired the start mutex.
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Starting 64 worker threads.
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Starting thread to listen on port 80.
+[Thu Jan 31 20:30:22 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 31 20:30:22 2008] [notice] Child 756: Exit event signaled. Child process is ending.
+[Thu Jan 31 20:30:23 2008] [notice] Child 756: Released the start mutex
+[Thu Jan 31 20:30:24 2008] [notice] Child 756: All worker threads have exited.
+[Thu Jan 31 20:30:24 2008] [notice] Child 756: Child process is exiting
+[Thu Jan 31 20:30:24 2008] [notice] Parent: Child process exited successfully.
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 05 14:00:52 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jun 05 14:00:52 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jun 05 14:00:52 2014] [notice] Parent: Created child process 1052
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 05 14:00:52 2014] [notice] Child 1052: Child process is running
+[Thu Jun 05 14:00:53 2014] [notice] Child 1052: Acquired the start mutex.
+[Thu Jun 05 14:00:53 2014] [notice] Child 1052: Starting 64 worker threads.
+[Thu Jun 05 14:00:53 2014] [notice] Child 1052: Starting thread to listen on port 80.
+[Thu Jun 05 14:01:14 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/images/patterns, referer: http://127.0.0.1/new/
+[Thu Jun 05 14:01:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Thu Jun 05 14:01:31 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/midia.php
+[Thu Jun 05 14:02:45 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/midia.php
+[Thu Jun 05 14:03:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/midia.php
+[Thu Jun 05 14:04:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/midia.php
+[Thu Jun 05 14:06:52 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/midia.php
+[Thu Jun 05 14:07:52 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/midia.php
+[Thu Jun 05 14:09:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:12:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:14:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:14:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:17:43 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:22:52 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:23:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:23:40 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:24:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:24:55 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:25:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:26:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:33:10 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/propositos, referer: http://127.0.0.1/new/tv.php
+[Thu Jun 05 14:36:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:38:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/quem-somos.php
+[Thu Jun 05 14:41:57 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:42:09 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:47:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:47:35 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/image
+[Thu Jun 05 14:48:27 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:48:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:50:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:50:45 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:53:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:55:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:55:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:55:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 14:55:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:00:18 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:07:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:08:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:09:40 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:10:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:10:50 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:11:39 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:12:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:13:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:13:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:14:45 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:15:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:17:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/celebracoes.php
+[Thu Jun 05 15:17:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/celebracoes.php
+[Thu Jun 05 15:18:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:22:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:26:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:28:25 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:32:31 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:33:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:33:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:33:50 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:34:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:34:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:34:46 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:35:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:40:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:41:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:41:31 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:43:17 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:44:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:44:46 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:45:20 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:46:14 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:46:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:48:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:49:12 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:51:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:53:00 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:53:28 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:54:00 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:54:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:56:52 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:57:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:57:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:58:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:58:11 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:58:36 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 15:59:18 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:06:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:06:35 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:06:45 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:07:50 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:10:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:11:20 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:11:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:12:25 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:12:43 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:14:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:15:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:19:43 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:20:07 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:20:20 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:20:38 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:28:00 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:28:45 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:32:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:32:57 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:33:09 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:33:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:36:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:42:13 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:48:00 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:51:48 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/img/header10.jpg, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:51:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/img/header10.jpg, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:51:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:52:00 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/img/header10.jpg, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:52:13 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:54:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:55:10 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:55:28 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:57:21 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:57:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:58:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:58:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 16:59:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:01:42 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:05:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:09:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/img/03ministerio.jpg, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:09:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/img/03ministerio.jpg, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:09:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:14:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:29:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Thu Jun 05 17:31:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Fri Jun 06 13:59:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Fri Jun 06 13:59:55 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Fri Jun 06 14:13:07 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Fri Jun 06 14:18:46 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos
+[Fri Jun 06 14:27:40 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe
+[Fri Jun 06 14:48:43 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe
+[Fri Jun 06 14:49:03 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe
+[Fri Jun 06 14:50:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/images/patterns, referer: http://127.0.0.1/new/index.php
+[Fri Jun 06 15:13:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/images/patterns, referer: http://127.0.0.1/new/index.php
+[Fri Jun 06 15:17:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/images/patterns, referer: http://127.0.0.1/new/index.php
+[Fri Jun 06 15:44:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 15:45:17 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 15:45:21 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 15:45:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 15:45:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 15:45:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/images/patterns, referer: http://127.0.0.1/new/index.php
+[Fri Jun 06 15:59:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:06:53 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:08:13 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:08:31 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:08:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:16:04 2014] [error] [client 127.0.0.1] Negotiation: discovered file(s) matching request: C:/AppServ/www/new/css/fonts/gothic (None could be negotiated)., referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:16:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:16:05 2014] [error] [client 127.0.0.1] Negotiation: discovered file(s) matching request: C:/AppServ/www/new/css/fonts/gothic (None could be negotiated)., referer: http://127.0.0.1/new/index.php
+[Fri Jun 06 16:16:36 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:17:57 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:18:28 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:18:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/passos.php
+[Fri Jun 06 16:19:11 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/new/essenciais.php' not found or unable to stat, referer: http://127.0.0.1/new/passos.php
+[Fri Jun 06 16:19:14 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/passos.php
+[Fri Jun 06 16:19:28 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/propositos.php
+[Fri Jun 06 16:19:42 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:20:10 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:20:13 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:30:50 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:31:25 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:32:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:45:07 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:45:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:46:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:46:25 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:46:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:49:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:49:40 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:50:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:50:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:50:46 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:51:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:51:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:51:40 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:57:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:58:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 16:59:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:00:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:00:13 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:00:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:01:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:04:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:04:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:05:20 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:05:38 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:05:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:06:59 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:07:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:07:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:10:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:10:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:10:24 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:11:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:15:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:17:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:17:15 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:19:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:25:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:28:42 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:29:12 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:42:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:48:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:50:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:51:40 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:55:35 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:56:01 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:59:11 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 17:59:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:43:55 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:56:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:56:37 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:56:52 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:57:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:57:13 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 18:57:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 19:00:35 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 19:00:53 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Fri Jun 06 19:01:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/new/undefined, referer: http://127.0.0.1/new/doe.php
+[Sun Jun 08 15:05:35 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jun 08 15:05:38 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Jun 08 15:05:38 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Jun 08 15:05:38 2014] [notice] Parent: Created child process 1780
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jun 08 15:05:38 2014] [notice] Child 1780: Child process is running
+[Sun Jun 08 15:05:38 2014] [notice] Child 1780: Acquired the start mutex.
+[Sun Jun 08 15:05:38 2014] [notice] Child 1780: Starting 64 worker threads.
+[Sun Jun 08 15:05:38 2014] [notice] Child 1780: Starting thread to listen on port 80.
+[Tue Jun 10 13:29:25 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jun 10 13:29:27 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jun 10 13:29:27 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jun 10 13:29:27 2014] [notice] Parent: Created child process 1828
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jun 10 13:29:27 2014] [notice] Child 1828: Child process is running
+[Tue Jun 10 13:29:27 2014] [notice] Child 1828: Acquired the start mutex.
+[Tue Jun 10 13:29:27 2014] [notice] Child 1828: Starting 64 worker threads.
+[Tue Jun 10 13:29:27 2014] [notice] Child 1828: Starting thread to listen on port 80.
+[Wed Jun 11 14:22:13 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 11 14:22:15 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jun 11 14:22:15 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jun 11 14:22:15 2014] [notice] Parent: Created child process 1576
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 11 14:22:15 2014] [notice] Child 1576: Child process is running
+[Wed Jun 11 14:22:15 2014] [notice] Child 1576: Acquired the start mutex.
+[Wed Jun 11 14:22:15 2014] [notice] Child 1576: Starting 64 worker threads.
+[Wed Jun 11 14:22:15 2014] [notice] Child 1576: Starting thread to listen on port 80.
+[Fri Jun 13 11:19:36 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 11:19:37 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Jun 13 11:19:37 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Jun 13 11:19:37 2014] [notice] Parent: Created child process 2008
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 11:19:37 2014] [notice] Child 2008: Child process is running
+[Fri Jun 13 11:19:37 2014] [notice] Child 2008: Acquired the start mutex.
+[Fri Jun 13 11:19:37 2014] [notice] Child 2008: Starting 64 worker threads.
+[Fri Jun 13 11:19:37 2014] [notice] Child 2008: Starting thread to listen on port 80.
+[Fri Jun 13 16:45:00 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 16:45:00 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Jun 13 16:45:00 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Jun 13 16:45:00 2014] [notice] Parent: Created child process 856
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 16:45:00 2014] [notice] Child 856: Child process is running
+[Fri Jun 13 16:45:00 2014] [notice] Child 856: Acquired the start mutex.
+[Fri Jun 13 16:45:00 2014] [notice] Child 856: Starting 64 worker threads.
+[Fri Jun 13 16:45:00 2014] [notice] Child 856: Starting thread to listen on port 80.
+[Fri Jun 13 18:38:06 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 18:38:06 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Jun 13 18:38:06 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Jun 13 18:38:06 2014] [notice] Parent: Created child process 1696
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 18:38:06 2014] [notice] Child 1696: Child process is running
+[Fri Jun 13 18:38:06 2014] [notice] Child 1696: Acquired the start mutex.
+[Fri Jun 13 18:38:06 2014] [notice] Child 1696: Starting 64 worker threads.
+[Fri Jun 13 18:38:06 2014] [notice] Child 1696: Starting thread to listen on port 80.
+[Fri Jun 13 18:44:35 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 18:44:38 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Jun 13 18:44:38 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Jun 13 18:44:38 2014] [notice] Parent: Created child process 1988
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jun 13 18:44:38 2014] [notice] Child 1988: Child process is running
+[Fri Jun 13 18:44:38 2014] [notice] Child 1988: Acquired the start mutex.
+[Fri Jun 13 18:44:38 2014] [notice] Child 1988: Starting 64 worker threads.
+[Fri Jun 13 18:44:38 2014] [notice] Child 1988: Starting thread to listen on port 80.
+[Sat Jun 14 03:19:33 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jun 14 03:19:33 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Jun 14 03:19:33 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Jun 14 03:19:33 2014] [notice] Parent: Created child process 1704
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jun 14 03:19:33 2014] [notice] Child 1704: Child process is running
+[Sat Jun 14 03:19:33 2014] [notice] Child 1704: Acquired the start mutex.
+[Sat Jun 14 03:19:33 2014] [notice] Child 1704: Starting 64 worker threads.
+[Sat Jun 14 03:19:33 2014] [notice] Child 1704: Starting thread to listen on port 80.
+[Tue Jun 17 12:40:24 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jun 17 12:40:25 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jun 17 12:40:25 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jun 17 12:40:25 2014] [notice] Parent: Created child process 4016
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jun 17 12:40:25 2014] [notice] Child 4016: Child process is running
+[Tue Jun 17 12:40:25 2014] [notice] Child 4016: Acquired the start mutex.
+[Tue Jun 17 12:40:25 2014] [notice] Child 4016: Starting 64 worker threads.
+[Tue Jun 17 12:40:25 2014] [notice] Child 4016: Starting thread to listen on port 80.
+[Wed Jun 18 16:10:17 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/img/bg-default.png, referer: http://127.0.0.1/pt/
+[Wed Jun 18 16:10:17 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/font-awesome/font, referer: http://127.0.0.1/pt/
+[Wed Jun 18 16:10:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/font-awesome/font, referer: http://127.0.0.1/pt/
+[Wed Jun 18 16:10:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Wed Jun 18 16:10:20 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/gritter/images/gritter.png, referer: http://127.0.0.1/pt/
+[Wed Jun 18 16:10:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/img/bg-default.png, referer: http://127.0.0.1/pt/index.html
+[Wed Jun 18 16:10:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/img/bg-default.png, referer: http://127.0.0.1/pt/index.html
+[Wed Jun 18 16:11:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/img/bg-default.png, referer: http://127.0.0.1/pt/index.html
+[Wed Jun 18 16:16:55 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/pt/assets/img/bg-default.png, referer: http://127.0.0.1/pt/login.html
+[Wed Jun 18 16:22:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Wed Jun 18 16:26:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/css/content.css, referer: http://127.0.0.1/en/
+[Wed Jun 18 16:34:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/css/content.css, referer: http://127.0.0.1/en/
+[Wed Jun 18 19:02:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/css/content.css, referer: http://127.0.0.1/en/
+[Wed Jun 18 19:11:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/login.html, referer: http://127.0.0.1/en/
+[Wed Jun 18 19:12:11 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:12:31 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:20:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:31:43 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:36:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:40:00 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:40:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:40:48 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:41:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:54:18 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 19:54:27 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:00:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:00:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:01:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:01:39 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:09:24 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:09:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:10:21 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:10:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:10:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:10:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:11:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:11:35 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:11:50 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:13:30 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:14:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:14:56 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:15:09 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:15:14 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:15:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:15:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:18:17 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:19:05 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:19:28 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:22:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:34:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:36:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:37:10 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:37:11 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:37:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:37:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:38:29 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:38:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:38:34 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:41:12 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:41:12 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:42:52 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:42:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:43:04 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:43:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 20:45:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/login.php
+[Wed Jun 18 21:02:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/password, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:04:12 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/password, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:04:44 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:04:47 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:04:53 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:05:30 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:05:32 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:05:50 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:06:12 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:07:53 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:08:03 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:09:51 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:10:34 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:10:57 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:13:56 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:14:23 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:17:17 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:18:20 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:19:15 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Wed Jun 18 21:25:48 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/password.php' not found or unable to stat, referer: http://127.0.0.1/en/account.php
+[Thu Jun 19 16:58:04 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 19 16:58:04 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jun 19 16:58:04 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jun 19 16:58:04 2014] [notice] Parent: Created child process 1924
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 19 16:58:04 2014] [notice] Child 1924: Child process is running
+[Thu Jun 19 16:58:04 2014] [notice] Child 1924: Acquired the start mutex.
+[Thu Jun 19 16:58:04 2014] [notice] Child 1924: Starting 64 worker threads.
+[Thu Jun 19 16:58:04 2014] [notice] Child 1924: Starting thread to listen on port 80.
+[Tue Jun 24 13:29:18 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jun 24 13:29:18 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jun 24 13:29:18 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jun 24 13:29:18 2014] [notice] Parent: Created child process 1816
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jun 24 13:29:19 2014] [notice] Child 1816: Child process is running
+[Tue Jun 24 13:29:19 2014] [notice] Child 1816: Acquired the start mutex.
+[Tue Jun 24 13:29:19 2014] [notice] Child 1816: Starting 64 worker threads.
+[Tue Jun 24 13:29:19 2014] [notice] Child 1816: Starting thread to listen on port 80.
+[Tue Jun 24 13:52:07 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Tue Jun 24 13:52:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Tue Jun 24 14:03:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/dashboard.html, referer: http://127.0.0.1/en/index.php
+[Tue Jun 24 14:04:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/dashboard.html, referer: http://127.0.0.1/en/index.php
+[Wed Jun 25 12:33:14 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 25 12:33:14 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jun 25 12:33:14 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jun 25 12:33:14 2014] [notice] Parent: Created child process 1900
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 25 12:33:15 2014] [notice] Child 1900: Child process is running
+[Wed Jun 25 12:33:15 2014] [notice] Child 1900: Acquired the start mutex.
+[Wed Jun 25 12:33:15 2014] [notice] Child 1900: Starting 64 worker threads.
+[Wed Jun 25 12:33:15 2014] [notice] Child 1900: Starting thread to listen on port 80.
+[Wed Jun 25 12:38:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Wed Jun 25 12:38:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Wed Jun 25 12:53:36 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/dons-final.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?
+[Wed Jun 25 14:06:29 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/dons.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 14:11:37 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/processa.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 14:11:38 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/processa.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 14:13:35 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/dons-final.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 14:13:36 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/dons-final.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 14:13:42 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/dons-final.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 14:13:46 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/dons-final.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php?af=ajfioajfiao
+[Wed Jun 25 15:26:09 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Wed Jun 25 22:17:45 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Wed Jun 25 22:18:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Thu Jun 26 13:09:17 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 26 13:09:18 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jun 26 13:09:18 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jun 26 13:09:18 2014] [notice] Parent: Created child process 1772
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 26 13:09:19 2014] [notice] Child 1772: Child process is running
+[Thu Jun 26 13:09:19 2014] [notice] Child 1772: Acquired the start mutex.
+[Thu Jun 26 13:09:19 2014] [notice] Child 1772: Starting 64 worker threads.
+[Thu Jun 26 13:09:19 2014] [notice] Child 1772: Starting thread to listen on port 80.
+[Thu Jun 26 13:15:21 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Thu Jun 26 13:15:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Fri Jun 27 14:10:51 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Fri Jun 27 14:11:03 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Fri Jun 27 17:22:38 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Fri Jun 27 17:36:21 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Fri Jun 27 17:36:38 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Fri Jun 27 17:36:49 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Fri Jun 27 17:37:26 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Fri Jun 27 17:37:38 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Fri Jun 27 17:51:43 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/undefined, referer: http://127.0.0.1/en/notifications.php
+[Fri Jun 27 18:05:33 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/js/jquery-1.9.1.min.js, referer: http://127.0.0.1/en/index.php
+[Sun Jun 29 14:31:35 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jun 29 14:31:37 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Jun 29 14:31:37 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Jun 29 14:31:37 2014] [notice] Parent: Created child process 1808
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jun 29 14:31:37 2014] [notice] Child 1808: Child process is running
+[Sun Jun 29 14:31:37 2014] [notice] Child 1808: Acquired the start mutex.
+[Sun Jun 29 14:31:37 2014] [notice] Child 1808: Starting 64 worker threads.
+[Sun Jun 29 14:31:37 2014] [notice] Child 1808: Starting thread to listen on port 80.
+[Sun Jun 29 17:28:21 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Sun Jun 29 21:34:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Tue Jul 01 14:10:04 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 01 14:10:05 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jul 01 14:10:05 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jul 01 14:10:05 2014] [notice] Parent: Created child process 1864
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 01 14:10:05 2014] [notice] Child 1864: Child process is running
+[Tue Jul 01 14:10:05 2014] [notice] Child 1864: Acquired the start mutex.
+[Tue Jul 01 14:10:05 2014] [notice] Child 1864: Starting 64 worker threads.
+[Tue Jul 01 14:10:05 2014] [notice] Child 1864: Starting thread to listen on port 80.
+[Tue Jul 01 16:51:41 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Tue Jul 01 16:52:10 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Tue Jul 01 19:16:30 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Tue Jul 01 19:25:08 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Tue Jul 01 19:25:59 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 09:49:23 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 02 09:49:23 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jul 02 09:49:23 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jul 02 09:49:23 2014] [notice] Parent: Created child process 1936
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 02 09:49:23 2014] [notice] Child 1936: Child process is running
+[Wed Jul 02 09:49:23 2014] [notice] Child 1936: Acquired the start mutex.
+[Wed Jul 02 09:49:23 2014] [notice] Child 1936: Starting 64 worker threads.
+[Wed Jul 02 09:49:23 2014] [notice] Child 1936: Starting thread to listen on port 80.
+[Wed Jul 02 12:01:12 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 02 12:01:12 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jul 02 12:01:12 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jul 02 12:01:12 2014] [notice] Parent: Created child process 1820
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 02 12:01:12 2014] [notice] Child 1820: Child process is running
+[Wed Jul 02 12:01:12 2014] [notice] Child 1820: Acquired the start mutex.
+[Wed Jul 02 12:01:12 2014] [notice] Child 1820: Starting 64 worker threads.
+[Wed Jul 02 12:01:12 2014] [notice] Child 1820: Starting thread to listen on port 80.
+[Wed Jul 02 12:11:53 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Wed Jul 02 12:12:06 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/favicon.ico
+[Wed Jul 02 12:27:12 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/images, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:27:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/images, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:27:25 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/images, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:38:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/jquery.min.map, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:38:46 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/jquery.min.map, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:41:05 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/jquery.min.map, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:42:08 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/jquery.min.map, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:47:47 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/jquery.min.map, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:50:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/ferret.jpg, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 12:51:38 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/ferret.jpg, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 13:17:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/css, referer: http://127.0.0.1/en/views/newphoto.php
+[Wed Jul 02 13:17:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/js, referer: http://127.0.0.1/en/views/newphoto.php
+[Wed Jul 02 13:17:54 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/images, referer: http://127.0.0.1/en/views/newphoto.php
+[Wed Jul 02 13:17:59 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/views/images, referer: http://127.0.0.1/en/views/newphoto.php
+[Wed Jul 02 16:09:48 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/views/profile.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:15:49 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:16:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/127.0.0.1, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:16:27 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/images, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:25:22 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:27:21 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:27:23 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:27:32 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui
+[Wed Jul 02 16:30:19 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:32:02 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:32:44 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/Insira a url aqui, referer: http://127.0.0.1/en/index.php
+[Wed Jul 02 16:45:01 2014] [error] [client 127.0.0.1] script 'C:/AppServ/www/en/newphoto.php' not found or unable to stat, referer: http://127.0.0.1/en/index.php
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+Not a JPEG file: starts with 0x89 0x50
+[Wed Jul 02 18:04:51 2014] [alert] [client 127.0.0.1] C:/AppServ/www/en/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://www.icb.tv/acesso/
+[Wed Jul 02 18:05:06 2014] [alert] [client 127.0.0.1] C:/AppServ/www/en/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://www.icb.tv/acesso/
+[Wed Jul 02 18:06:15 2014] [alert] [client 127.0.0.1] C:/AppServ/www/en/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://www.icb.tv/acesso/
+[Wed Jul 02 18:06:19 2014] [alert] [client 127.0.0.1] C:/AppServ/www/en/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://www.icb.tv/acesso/
+[Wed Jul 02 18:06:19 2014] [alert] [client 127.0.0.1] C:/AppServ/www/en/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://www.icb.tv/acesso/
+[Thu Jul 03 11:51:17 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 03 11:51:17 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jul 03 11:51:17 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jul 03 11:51:17 2014] [notice] Parent: Created child process 1852
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 03 11:51:18 2014] [notice] Child 1852: Child process is running
+[Thu Jul 03 11:51:18 2014] [notice] Child 1852: Acquired the start mutex.
+[Thu Jul 03 11:51:18 2014] [notice] Child 1852: Starting 64 worker threads.
+[Thu Jul 03 11:51:18 2014] [notice] Child 1852: Starting thread to listen on port 80.
+[Thu Jul 03 13:43:56 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 03 13:43:58 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jul 03 13:43:58 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jul 03 13:43:58 2014] [notice] Parent: Created child process 368
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 03 13:43:58 2014] [notice] Child 368: Child process is running
+[Thu Jul 03 13:43:58 2014] [notice] Child 368: Acquired the start mutex.
+[Thu Jul 03 13:43:58 2014] [notice] Child 368: Starting 64 worker threads.
+[Thu Jul 03 13:43:58 2014] [notice] Child 368: Starting thread to listen on port 80.
+[Sat Jul 05 17:27:03 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 05 17:27:04 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Jul 05 17:27:04 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Jul 05 17:27:04 2014] [notice] Parent: Created child process 1724
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 05 17:27:04 2014] [notice] Child 1724: Child process is running
+[Sat Jul 05 17:27:04 2014] [notice] Child 1724: Acquired the start mutex.
+[Sat Jul 05 17:27:04 2014] [notice] Child 1724: Starting 64 worker threads.
+[Sat Jul 05 17:27:04 2014] [notice] Child 1724: Starting thread to listen on port 80.
+[Sat Jul 05 17:49:07 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Sun Jul 06 16:21:20 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 06 16:21:21 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Jul 06 16:21:21 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Jul 06 16:21:21 2014] [notice] Parent: Created child process 1928
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 06 16:21:22 2014] [notice] Child 1928: Child process is running
+[Sun Jul 06 16:21:22 2014] [notice] Child 1928: Acquired the start mutex.
+[Sun Jul 06 16:21:22 2014] [notice] Child 1928: Starting 64 worker threads.
+[Sun Jul 06 16:21:22 2014] [notice] Child 1928: Starting thread to listen on port 80.
+[Tue Jul 08 14:03:09 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 08 14:03:09 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jul 08 14:03:09 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jul 08 14:03:09 2014] [notice] Parent: Created child process 1808
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 08 14:03:09 2014] [notice] Child 1808: Child process is running
+[Tue Jul 08 14:03:09 2014] [notice] Child 1808: Acquired the start mutex.
+[Tue Jul 08 14:03:09 2014] [notice] Child 1808: Starting 64 worker threads.
+[Tue Jul 08 14:03:09 2014] [notice] Child 1808: Starting thread to listen on port 80.
+[Wed Jul 09 18:37:02 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 09 18:37:02 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jul 09 18:37:02 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jul 09 18:37:02 2014] [notice] Parent: Created child process 1912
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 09 18:37:02 2014] [notice] Child 1912: Child process is running
+[Wed Jul 09 18:37:02 2014] [notice] Child 1912: Acquired the start mutex.
+[Wed Jul 09 18:37:02 2014] [notice] Child 1912: Starting 64 worker threads.
+[Wed Jul 09 18:37:02 2014] [notice] Child 1912: Starting thread to listen on port 80.
+[Thu Jul 10 16:32:24 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Sat Jul 12 16:52:43 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 12 16:52:44 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Jul 12 16:52:44 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Jul 12 16:52:44 2014] [notice] Parent: Created child process 1868
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 12 16:52:44 2014] [notice] Child 1868: Child process is running
+[Sat Jul 12 16:52:44 2014] [notice] Child 1868: Acquired the start mutex.
+[Sat Jul 12 16:52:44 2014] [notice] Child 1868: Starting 64 worker threads.
+[Sat Jul 12 16:52:44 2014] [notice] Child 1868: Starting thread to listen on port 80.
+[Sat Jul 12 17:25:12 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 12 17:25:12 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Jul 12 17:25:12 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Jul 12 17:25:12 2014] [notice] Parent: Created child process 1848
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 12 17:25:13 2014] [notice] Child 1848: Child process is running
+[Sat Jul 12 17:25:13 2014] [notice] Child 1848: Acquired the start mutex.
+[Sat Jul 12 17:25:13 2014] [notice] Child 1848: Starting 64 worker threads.
+[Sat Jul 12 17:25:13 2014] [notice] Child 1848: Starting thread to listen on port 80.
+[Wed Jul 16 14:19:06 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 16 14:19:06 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jul 16 14:19:06 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jul 16 14:19:06 2014] [notice] Parent: Created child process 380
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 16 14:19:07 2014] [notice] Child 380: Child process is running
+[Wed Jul 16 14:19:07 2014] [notice] Child 380: Acquired the start mutex.
+[Wed Jul 16 14:19:07 2014] [notice] Child 380: Starting 64 worker threads.
+[Wed Jul 16 14:19:07 2014] [notice] Child 380: Starting thread to listen on port 80.
+[Wed Jul 16 14:56:26 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Wed Jul 16 20:39:29 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 16 20:39:30 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jul 16 20:39:30 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jul 16 20:39:30 2014] [notice] Parent: Created child process 1892
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 16 20:39:31 2014] [notice] Child 1892: Child process is running
+[Wed Jul 16 20:39:31 2014] [notice] Child 1892: Acquired the start mutex.
+[Wed Jul 16 20:39:31 2014] [notice] Child 1892: Starting 64 worker threads.
+[Wed Jul 16 20:39:31 2014] [notice] Child 1892: Starting thread to listen on port 80.
+[Thu Jul 17 13:27:45 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 17 13:27:45 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jul 17 13:27:45 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jul 17 13:27:45 2014] [notice] Parent: Created child process 1848
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 17 13:27:45 2014] [notice] Child 1848: Child process is running
+[Thu Jul 17 13:27:45 2014] [notice] Child 1848: Acquired the start mutex.
+[Thu Jul 17 13:27:45 2014] [notice] Child 1848: Starting 64 worker threads.
+[Thu Jul 17 13:27:45 2014] [notice] Child 1848: Starting thread to listen on port 80.
+[Fri Jul 18 13:59:26 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jul 18 13:59:29 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Jul 18 13:59:29 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Jul 18 13:59:29 2014] [notice] Parent: Created child process 1972
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Jul 18 13:59:29 2014] [notice] Child 1972: Child process is running
+[Fri Jul 18 13:59:29 2014] [notice] Child 1972: Acquired the start mutex.
+[Fri Jul 18 13:59:29 2014] [notice] Child 1972: Starting 64 worker threads.
+[Fri Jul 18 13:59:29 2014] [notice] Child 1972: Starting thread to listen on port 80.
+[Sun Jul 20 13:34:46 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 20 13:34:46 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Jul 20 13:34:46 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Jul 20 13:34:46 2014] [notice] Parent: Created child process 1984
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 20 13:34:46 2014] [notice] Child 1984: Child process is running
+[Sun Jul 20 13:34:46 2014] [notice] Child 1984: Acquired the start mutex.
+[Sun Jul 20 13:34:46 2014] [notice] Child 1984: Starting 64 worker threads.
+[Sun Jul 20 13:34:46 2014] [notice] Child 1984: Starting thread to listen on port 80.
+[Sun Jul 20 18:54:55 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 20 18:54:57 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Jul 20 18:54:57 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Jul 20 18:54:57 2014] [notice] Parent: Created child process 1824
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 20 18:54:57 2014] [notice] Child 1824: Child process is running
+[Sun Jul 20 18:54:57 2014] [notice] Child 1824: Acquired the start mutex.
+[Sun Jul 20 18:54:57 2014] [notice] Child 1824: Starting 64 worker threads.
+[Sun Jul 20 18:54:57 2014] [notice] Child 1824: Starting thread to listen on port 80.
+[Tue Jul 22 16:49:58 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 22 16:49:58 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jul 22 16:49:58 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jul 22 16:49:58 2014] [notice] Parent: Created child process 1904
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 22 16:49:58 2014] [notice] Child 1904: Child process is running
+[Tue Jul 22 16:49:58 2014] [notice] Child 1904: Acquired the start mutex.
+[Tue Jul 22 16:49:58 2014] [notice] Child 1904: Starting 64 worker threads.
+[Tue Jul 22 16:49:58 2014] [notice] Child 1904: Starting thread to listen on port 80.
+[Wed Jul 23 18:13:39 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 23 18:13:40 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jul 23 18:13:40 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jul 23 18:13:40 2014] [notice] Parent: Created child process 1920
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jul 23 18:13:40 2014] [notice] Child 1920: Child process is running
+[Wed Jul 23 18:13:40 2014] [notice] Child 1920: Acquired the start mutex.
+[Wed Jul 23 18:13:40 2014] [notice] Child 1920: Starting 64 worker threads.
+[Wed Jul 23 18:13:40 2014] [notice] Child 1920: Starting thread to listen on port 80.
+[Thu Jul 24 13:38:13 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 24 13:38:13 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jul 24 13:38:13 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jul 24 13:38:13 2014] [notice] Parent: Created child process 1936
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 24 13:38:14 2014] [notice] Child 1936: Child process is running
+[Thu Jul 24 13:38:14 2014] [notice] Child 1936: Acquired the start mutex.
+[Thu Jul 24 13:38:14 2014] [notice] Child 1936: Starting 64 worker threads.
+[Thu Jul 24 13:38:14 2014] [notice] Child 1936: Starting thread to listen on port 80.
+[Thu Jul 24 13:47:05 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Sat Jul 26 15:48:45 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 26 15:48:46 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Jul 26 15:48:46 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Jul 26 15:48:46 2014] [notice] Parent: Created child process 1916
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 26 15:48:46 2014] [notice] Child 1916: Child process is running
+[Sat Jul 26 15:48:46 2014] [notice] Child 1916: Acquired the start mutex.
+[Sat Jul 26 15:48:46 2014] [notice] Child 1916: Starting 64 worker threads.
+[Sat Jul 26 15:48:46 2014] [notice] Child 1916: Starting thread to listen on port 80.
+[Sat Jul 26 17:03:19 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 26 17:03:23 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sat Jul 26 17:03:23 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sat Jul 26 17:03:23 2014] [notice] Parent: Created child process 1400
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Jul 26 17:03:23 2014] [notice] Child 1400: Child process is running
+[Sat Jul 26 17:03:23 2014] [notice] Child 1400: Acquired the start mutex.
+[Sat Jul 26 17:03:23 2014] [notice] Child 1400: Starting 64 worker threads.
+[Sat Jul 26 17:03:23 2014] [notice] Child 1400: Starting thread to listen on port 80.
+[Sat Jul 26 19:07:16 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Sat Jul 26 19:21:03 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/onlinestore
+[Sun Jul 27 17:14:37 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 27 17:14:38 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Jul 27 17:14:38 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Jul 27 17:14:38 2014] [notice] Parent: Created child process 936
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Jul 27 17:14:38 2014] [notice] Child 936: Child process is running
+[Sun Jul 27 17:14:38 2014] [notice] Child 936: Acquired the start mutex.
+[Sun Jul 27 17:14:38 2014] [notice] Child 936: Starting 64 worker threads.
+[Sun Jul 27 17:14:38 2014] [notice] Child 936: Starting thread to listen on port 80.
+[Tue Jul 29 14:01:46 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 29 14:01:46 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Jul 29 14:01:46 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Jul 29 14:01:46 2014] [notice] Parent: Created child process 1920
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Jul 29 14:01:46 2014] [notice] Child 1920: Child process is running
+[Tue Jul 29 14:01:46 2014] [notice] Child 1920: Acquired the start mutex.
+[Tue Jul 29 14:01:46 2014] [notice] Child 1920: Starting 64 worker threads.
+[Tue Jul 29 14:01:46 2014] [notice] Child 1920: Starting thread to listen on port 80.
+[Thu Jul 31 08:37:54 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 31 08:38:01 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Jul 31 08:38:01 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jul 31 08:38:01 2014] [notice] Parent: Created child process 108
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jul 31 08:38:01 2014] [notice] Child 108: Child process is running
+[Thu Jul 31 08:38:01 2014] [notice] Child 108: Acquired the start mutex.
+[Thu Jul 31 08:38:01 2014] [notice] Child 108: Starting 64 worker threads.
+[Thu Jul 31 08:38:01 2014] [notice] Child 108: Starting thread to listen on port 80.
+[Thu Jul 31 17:04:58 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/en/chosen
+[Thu Jul 31 17:04:59 2014] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Fri Aug 01 14:31:11 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 01 14:31:15 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Fri Aug 01 14:31:15 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Fri Aug 01 14:31:15 2014] [notice] Parent: Created child process 1996
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri Aug 01 14:31:15 2014] [notice] Child 1996: Child process is running
+[Fri Aug 01 14:31:15 2014] [notice] Child 1996: Acquired the start mutex.
+[Fri Aug 01 14:31:15 2014] [notice] Child 1996: Starting 64 worker threads.
+[Fri Aug 01 14:31:15 2014] [notice] Child 1996: Starting thread to listen on port 80.
+[Sun Aug 03 15:13:55 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 03 15:13:59 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Aug 03 15:13:59 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Aug 03 15:13:59 2014] [notice] Parent: Created child process 2004
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 03 15:13:59 2014] [notice] Child 2004: Child process is running
+[Sun Aug 03 15:13:59 2014] [notice] Child 2004: Acquired the start mutex.
+[Sun Aug 03 15:13:59 2014] [notice] Child 2004: Starting 64 worker threads.
+[Sun Aug 03 15:13:59 2014] [notice] Child 2004: Starting thread to listen on port 80.
+[Tue Aug 05 13:38:52 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 05 13:38:53 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Aug 05 13:38:53 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Aug 05 13:38:53 2014] [notice] Parent: Created child process 1780
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 05 13:38:53 2014] [notice] Child 1780: Child process is running
+[Tue Aug 05 13:38:53 2014] [notice] Child 1780: Acquired the start mutex.
+[Tue Aug 05 13:38:53 2014] [notice] Child 1780: Starting 64 worker threads.
+[Tue Aug 05 13:38:53 2014] [notice] Child 1780: Starting thread to listen on port 80.
+[Wed Aug 06 11:05:15 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 06 11:05:18 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Aug 06 11:05:18 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 06 11:05:18 2014] [notice] Parent: Created child process 1912
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 06 11:05:18 2014] [notice] Child 1912: Child process is running
+[Wed Aug 06 11:05:18 2014] [notice] Child 1912: Acquired the start mutex.
+[Wed Aug 06 11:05:18 2014] [notice] Child 1912: Starting 64 worker threads.
+[Wed Aug 06 11:05:18 2014] [notice] Child 1912: Starting thread to listen on port 80.
+[Thu Aug 07 14:14:32 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Aug 07 14:14:35 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Thu Aug 07 14:14:35 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Aug 07 14:14:35 2014] [notice] Parent: Created child process 1944
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Aug 07 14:14:35 2014] [notice] Child 1944: Child process is running
+[Thu Aug 07 14:14:35 2014] [notice] Child 1944: Acquired the start mutex.
+[Thu Aug 07 14:14:35 2014] [notice] Child 1944: Starting 64 worker threads.
+[Thu Aug 07 14:14:35 2014] [notice] Child 1944: Starting thread to listen on port 80.
+[Sun Aug 10 18:08:06 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 10 18:08:06 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Sun Aug 10 18:08:06 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Sun Aug 10 18:08:06 2014] [notice] Parent: Created child process 1792
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun Aug 10 18:08:07 2014] [notice] Child 1792: Child process is running
+[Sun Aug 10 18:08:07 2014] [notice] Child 1792: Acquired the start mutex.
+[Sun Aug 10 18:08:07 2014] [notice] Child 1792: Starting 64 worker threads.
+[Sun Aug 10 18:08:07 2014] [notice] Child 1792: Starting thread to listen on port 80.
+[Tue Aug 12 14:07:51 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 12 14:07:51 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Tue Aug 12 14:07:51 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Tue Aug 12 14:07:51 2014] [notice] Parent: Created child process 1884
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Tue Aug 12 14:07:51 2014] [notice] Child 1884: Child process is running
+[Tue Aug 12 14:07:51 2014] [notice] Child 1884: Acquired the start mutex.
+[Tue Aug 12 14:07:51 2014] [notice] Child 1884: Starting 64 worker threads.
+[Tue Aug 12 14:07:51 2014] [notice] Child 1884: Starting thread to listen on port 80.
+[Wed Aug 13 13:42:24 2014] [warn] pid file C:/AppServ/Apache2.2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 13:42:24 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Aug 13 13:42:24 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 13 13:42:24 2014] [notice] Parent: Created child process 1828
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 13:42:25 2014] [notice] Child 1828: Child process is running
+[Wed Aug 13 13:42:25 2014] [notice] Child 1828: Acquired the start mutex.
+[Wed Aug 13 13:42:25 2014] [notice] Child 1828: Starting 64 worker threads.
+[Wed Aug 13 13:42:25 2014] [notice] Child 1828: Starting thread to listen on port 80.
+[Wed Aug 13 15:43:27 2014] [warn] pid file C:/Users/Lan/Documents/Visual Studio 2010/Projects/LocalCoder/LocalCoder/bin/Debug/web/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 15:43:30 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Aug 13 15:43:30 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 13 15:43:30 2014] [notice] Parent: Created child process 49208
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 15:43:30 2014] [notice] Child 49208: Child process is running
+[Wed Aug 13 15:43:30 2014] [notice] Child 49208: Acquired the start mutex.
+[Wed Aug 13 15:43:30 2014] [notice] Child 49208: Starting 64 worker threads.
+[Wed Aug 13 15:43:30 2014] [notice] Child 49208: Starting thread to listen on port 10960.
+[Wed Aug 13 15:54:18 2014] [warn] pid file C:/Users/Lan/Documents/Visual Studio 2010/Projects/LocalCoder/LocalCoder/bin/Debug/web/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 15:54:20 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Aug 13 15:54:20 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 13 15:54:20 2014] [notice] Parent: Created child process 6212
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 15:54:21 2014] [notice] Child 6212: Child process is running
+[Wed Aug 13 15:54:21 2014] [notice] Child 6212: Acquired the start mutex.
+[Wed Aug 13 15:54:21 2014] [notice] Child 6212: Starting 64 worker threads.
+[Wed Aug 13 15:54:21 2014] [notice] Child 6212: Starting thread to listen on port 10960.
+[Wed Aug 13 17:01:48 2014] [notice] Parent: child process exited with status 1 -- Restarting.
+[Wed Aug 13 17:17:29 2014] [warn] pid file C:/Users/Lan/Documents/Visual Studio 2010/Projects/LocalCoder/LocalCoder/bin/Debug/web/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 17:17:30 2014] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Aug 13 17:17:30 2014] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Aug 13 17:17:30 2014] [notice] Parent: Created child process 60736
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_mbstring.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Aug 13 17:17:31 2014] [notice] Child 60736: Child process is running
+[Wed Aug 13 17:17:31 2014] [notice] Child 60736: Acquired the start mutex.
+[Wed Aug 13 17:17:31 2014] [notice] Child 60736: Starting 64 worker threads.
+[Wed Aug 13 17:17:31 2014] [notice] Child 60736: Starting thread to listen on port 10960.
