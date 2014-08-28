@@ -5,3 +5,13 @@ C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86
 C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Release\LocalCoder.csproj.GenerateResource.Cache
 C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Release\LocalCoder.exe
 C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Release\LocalCoder.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\LocalCoder.exe
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\LocalCoder.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\Data.dll
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\Data.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Release\LocalCoder.LCForm.resources
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Release\LocalCoder.Properties.Resources.resources
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Release\LocalCoder.csproj.GenerateResource.Cache
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Release\LocalCoder.exe
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Release\LocalCoder.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Release\LocalCoder.csprojResolveAssemblyReference.cache

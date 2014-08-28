@@ -1,0 +1,4 @@
+C:\Users\Lan\Documents\GitHub\Local-Coder\Data\bin\Release\Data.dll
+C:\Users\Lan\Documents\GitHub\Local-Coder\Data\bin\Release\Data.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\Data\obj\Release\Data.dll
+C:\Users\Lan\Documents\GitHub\Local-Coder\Data\obj\Release\Data.pdb

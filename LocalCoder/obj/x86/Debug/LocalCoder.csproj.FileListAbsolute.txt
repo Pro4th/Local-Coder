@@ -13,3 +13,13 @@ C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86
 C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.csproj.GenerateResource.Cache
 C:\Users\Lan\documents\visual studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.LCForm.resources
 C:\Users\Lan\Documents\Visual Studio 2010\Projects\LocalCoder\LocalCoder\obj\x86\Debug\LocalCoder.csprojResolveAssemblyReference.cache
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Debug\LocalCoder.exe
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Debug\LocalCoder.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\LocalCoder.exe
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\LocalCoder.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\Data.dll
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\bin\Debug\Data.pdb
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Debug\LocalCoder.csprojResolveAssemblyReference.cache
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Debug\LocalCoder.LCForm.resources
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Debug\LocalCoder.Properties.Resources.resources
+C:\Users\Lan\Documents\GitHub\Local-Coder\LocalCoder\obj\x86\Debug\LocalCoder.csproj.GenerateResource.Cache

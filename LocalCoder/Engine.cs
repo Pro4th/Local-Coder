@@ -5,6 +5,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Windows.Forms;
 using System.IO;
+using LCData;
 
 namespace LocalCoder
 {
@@ -16,6 +17,7 @@ namespace LocalCoder
         public Engine(LCForm _LC)
         {
             LC = _LC;
+            MySystem.SetAssociation(".lcproject", "LOCAL_CODER", Application.ExecutablePath, "Local Coder Project");
         }
 
         public void Start()
@@ -33,9 +35,6 @@ namespace LocalCoder
 
         public void Update()
         {
-            string pageContent = LC.localCodeBox.Text;
-            WriteNewFile(pageContent);
-
             LC.webResultBox.Refresh(WebBrowserRefreshOption.Completely);
         }
 
@@ -59,7 +58,11 @@ namespace LocalCoder
 
         private void CloseApache()
         {
-            Apache.Close();
+            try
+            {
+                Apache.Kill();
+            }
+            catch { }
         }
     }
 }
